@@ -4,6 +4,8 @@ A basic app that helped me learn Flask and Python virtual environments.
 ## General info
 This is a to-do web app connected to a SQLite instance for storing entries. Not intended for reuse - it was a learning project.
 
+![screenshot of app](./screenshot.png)
+
 ## Technologies
 * Python
 * Flask 2.2.3
